@@ -1,2 +1,1 @@
-# hyperalign
-The code is being prepared.
+# The code is being prepared.
